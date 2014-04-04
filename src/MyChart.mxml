@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mx:WindowedApplication xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" xmlns:ns1="*" width="400" height="300" backgroundGradientAlphas="[0.6, 1.0]" backgroundGradientColors="[#010101, #FFFFFF]">
-
-	<ns1:Pie3D2 width="200" height="200" horizontalCenter="0"   verticalCenter="0"/>
-
-	<!--<ns1:Pie3D2 width="200" height="200" x="200" y="200"/>-->
-</mx:WindowedApplication>
